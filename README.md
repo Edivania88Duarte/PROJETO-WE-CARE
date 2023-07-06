@@ -32,5 +32,10 @@
 
 <h2>INFORMAÇÕES:</h2>
 <br>
-<p> ◉ O projeto se deu através das tecnologias HTML e CSS, com a aplicação responsiva para que a interface se ajuste aos formatos desktop e mobolie, facilitando, dessa forma sua visualização em dispositivos com tamanhos de telas diferentes. </p>
+<p> ◉ O projeto se deu através das tecnologias HTML e CSS, com a aplicação responsiva para que a interface se ajuste aos formatos desktop e mobile, facilitando, dessa forma sua visualização em dispositivos com telas de diferentes tamanhos. </p>
+<br>
+<br>
+<h2>EXPERIÊNCIA:</h2>
+<br> 
+<p> ◉ Através da responsividade, o usuário tem a liberdade e facilidade de acessar e visualizar o projeto nas telas que desejar, pois ele se adapta ao tamanho da tela do dispositivo do qual está sendo acessado, possibilitando ao usuário uma experiência fácil, agradável e intuitiva. </p>
 
