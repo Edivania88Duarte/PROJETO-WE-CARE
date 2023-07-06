@@ -34,7 +34,7 @@
 
 <h2>INFORMAÇÕES:</h2>
 <br>
-<p> ◉ O projeto se deu através das tecnologias HTML e CSS, com a aplicação responsiva para que a interface se ajuste aos formatos desktop e mobile, facilitando, dessa forma sua visualização em dispositivos com telas de diferentes tamanhos. </p>
+<p> ◉ O projeto se deu através das tecnologias HTML e CSS, com a aplicação responsiva para que a interface se ajuste aos formatos desktop e mobile, facilitando dessa forma, sua visualização em dispositivos com telas de diferentes tamanhos. </p>
 <br>
 <br>
 <h2>EXPERIÊNCIA:</h2>
