@@ -20,12 +20,14 @@
 
 <h4> 🚀 Modelo no Desktop </h4>
 
- ![image](https://github.com/Edivania88Duarte/Meus-Projetos/assets/120994730/63fb7ea8-cb99-4180-aa67-e442fadc656c)
+![image](https://github.com/Edivania88Duarte/PROJETO-WE-CARE/assets/120994730/8cd37075-7177-4bd8-8c01-16d7536aba85)
+
 
 
 <h4> 🚀 Modelo no Mobile </h4>
 
-![image](https://github.com/Edivania88Duarte/Meus-Projetos/assets/120994730/72a89514-6d9f-46d2-8428-b13ae0cd1119)
+![image](https://github.com/Edivania88Duarte/PROJETO-WE-CARE/assets/120994730/7c800311-19d6-438d-93cc-76d534c74a6d)
+
 
 <br>
 <br>
